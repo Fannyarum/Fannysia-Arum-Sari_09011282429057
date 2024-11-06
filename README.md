@@ -9,14 +9,14 @@ Berikut merupakan dokumentasi progress project dengan menggunakan Framework java
 
 # Langkah-Langkah Membuat Project Spring-Boot
 1.	Cek apakah lingkungan java sudah terinstall dengan periksa lewat cmd/command prompt
-   'Perintah : Java -version'
+   `Perintah : Java -version`
 2.	Jika belum kalian install jdk di sini https://www.oracle.com/id/java/technologies/downloads/  disarankan versi terbaru/ senyaman kalian
 3.	Install java maven di sini https://maven.apache.org/download.cgi 
 
 ![image](https://github.com/user-attachments/assets/98689302-7278-49d7-9cdf-9a8b01de043b)
 
 4.	Folder yg didownload berupa .zip, extract lalu masukkan folder apache-maven-3.9.9-bin ke folder C: Program Files kalian
-5.	Cek Kembali dengan perintah 'mvn -version' jika masih seperti ini
+5.	Cek Kembali dengan perintah `mvn -version` jika masih seperti ini
 
 ![image](https://github.com/user-attachments/assets/3af336d8-a241-47fa-b610-dccb147b5a7c)
 
