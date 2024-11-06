@@ -15,8 +15,6 @@ Berikut merupakan dokumentasi progress project dengan menggunakan Framework java
 
 ![image](https://github.com/user-attachments/assets/98689302-7278-49d7-9cdf-9a8b01de043b)
 
-![image](https://github.com/user-attachments/assets/431d1ba9-3daa-4db6-a09b-35edf28eb093)
-
 4.	Folder yg didownload berupa .zip, extract lalu masukkan folder apache-maven-3.9.9-bin ke folder C: Program Files kalian
 5.	Cek Kembali dengan perintah `mvn -version` jika masih seperti ini
 
