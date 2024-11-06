@@ -7,6 +7,7 @@ Berikut merupakan dokumentasi progress project dengan menggunakan Framework java
 - Kelas          : SK1B
 - Dosen Pengampu : Abdurahman S.Kom., M.Han.
 
+# Langkah-Langkah Membuat Project Spring-Boot
 1.	Cek apakah lingkungan java sudah terinstall dengan periksa lewat cmd/command prompt
 Perintah : Java -version
 2.	Jika belum kalian install jdk di sini https://www.oracle.com/id/java/technologies/downloads/  disarankan versi terbaru/ senyaman kalian
@@ -31,5 +32,8 @@ Perintah : Java -version
 
 9.	Buka Visual Studio Code install extension : Extension Pack for Java yg dari Microsoft
 10.	Install extension : Spring Boot Extension Pack tunggu sampe tulisan disabled
-11.	Buka command palette dgn shortcut Ctrl + Shift + P ketik spring kemudian pilih yg Spring initializer : create a maven project
+11.	Buka command palette dgn shortcut Ctrl + Shift + P ketik spring kemudian pilih yang Spring initializer : create a maven project
+12.	Pilih kembali versi yang akan kalian gunakan selanjutnya pilih bahasa Java, buat nama group.id, kemudian nama projectnya apa, pilih packaging Jar, lalu versi java yang sesuai dengan punya kalian jika tidak ada yang sesuai nanti bisa kalian ubah di file pom.xml.
+13.	Pilih dependencies disini kita cukup menggunakan Spring Boot DevTools serta Spring web
+14.	Langkah terkakhir hanya kalian perlu menempatkan project tersebut di dalam folder apapun yang kalian mau lalu klik generate into this folder.
 
