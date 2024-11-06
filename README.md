@@ -2,10 +2,10 @@
 Berikut merupakan dokumentasi progress project dengan menggunakan Framework java Spring-boot
 
 #### Disusun oleh :
-Nama           : Fannysia Arum Sari
-Nim            : 09011282429057
-Kelas          : SK1B
-Dosen Pengampu : Abdurahman S.Kom., M.Han.
+- Nama           : Fannysia Arum Sari
+- Nim            : 09011282429057
+- Kelas          : SK1B
+- Dosen Pengampu : Abdurahman S.Kom., M.Han.
 
 1.	Cek apakah lingkungan java sudah terinstall dengan periksa lewat cmd/command prompt
 Perintah : Java -version
